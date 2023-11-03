@@ -106,13 +106,7 @@ the function we get a text similarity score of 67 between Peter Pan and Winnie t
 
 # Reflection
 
-Overall this project went ok. It didn't go completely well as I had hoped mainly because I thought after
-processing the files and then revising my functions using ChatGPT, my code would run. I'm honestly just
-glad that even some of my code worked. I think my plan going into the assignment changed a lot while I 
-worked on it because I used a lot of references, sources, videos and examples on how to fix my functions.
-What I really want to improve in my assignment is to figure out how to get all of mycode to run properly.
-I've looked at people who have asked similar questions on stack overflow but the answers in the comment
-section were a little too advanced for me to understand. Basically I would say the project went alright.
+Overall this project went semi-ok. It didn't go completely well as I had hoped mainly because I thought after processing the files and then revising my functions using ChatGPT, my code would run. I'm honestly just glad that even some of my code worked. I think my plan going into the assignment changed a lot while I worked on it because I used a lot of references, sources, videos and examples on how to fix my functions. What I really want to improve in my assignment is to figure out how to get all of mycode to run properly. I've looked at people who have asked similar questions on stack overflow but the answers in the comment section were a little too advanced for me to understand. Basically I would say the project went alright.
 
 
 

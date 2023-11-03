@@ -60,7 +60,7 @@ def skip_gutenberg_header(fp):
 
 def total_words(name):
     """
-    Returns the total of the 
+    This function returns the total of the 
     frequencies in a histogram.
     """
     return sum(name.values())
