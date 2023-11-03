@@ -82,7 +82,8 @@ def eliminate_stop(name, stopwords_file_path):
 
 def specific_words(name, word):
     """
-    This function finds how many times the word appears in the text file
+    This function finds how many 
+    times the word appears in the text file
     """
     try:
         with open(name, 'r', encoding='UTF8') as file:
@@ -101,7 +102,8 @@ print(f'The word "{word_to_count}" appears {count_1} times in the text.')
 print(f'The word "{word_to_count}" appears {count_2} times in the text.')
 
 def most_common(name, excluding_stopwords=False):
-    """Makes a list of word-freq pairs in descending order of frequency.
+    """
+    Makes a list of word-freq pairs in descending order of frequency.
     hist: map from word to frequency
     returns: list of (frequency, word) pairs
     """
@@ -132,8 +134,7 @@ def top_10(name):
 def unique_words(name):
     '''
     This function returns the number of unique words in the text.
-    
-    The result is essentiatlly the number of keys in the result dictionary from the processfile function.
+    The result is the number of keys in the result dictfrom the processfile function.
     '''
     return len(name)
 
