@@ -100,7 +100,7 @@ Winnie the Pooh. This suggests that both Peter Pan and Winnie the Pooh have a hi
 ![Alt text](image-8.png)
 
 For my last function I wanted to try to find the similarity score. The higher the similarity score, the more similar the texts are, with a maximum score of 100 indicating the texts are identical. When running
-the function we get a text similarity score of 67 between Peter Pan and Winnie the Pooh. Meaning the texts are pretty similar to one another but not completely. This is surprising as I expected the similarity score to be much higher than the output I was given. I expected it to be higher because they are both childrens texts so the wording should be very similar. 
+the function we get a text similarity score of 67 between Peter Pan and Winnie the Pooh. Meaning the texts are pretty similar to one another but not completely. This is surprising as I expected the similarity score to be much higher than the output I was given. I expected it to be higher because they are both childrens texts so the words should be very similar. 
 
 ![Alt text](image-9.png)
 
